@@ -7,7 +7,7 @@ Elon Musk is my role model.
 
 1. Navigate to your pc's desktop or wherever you want to have the project saved.
 2. Open your favorite code editor's terminal.
-3. `git clone #######`
+3. `git clone https://github.com/mojib2014/SpaceX-home-page.git`
 4. Open index.html file with live server to view the project.
 
 ### Tech Stack
